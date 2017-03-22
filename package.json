@@ -1,0 +1,39 @@
+{
+  "name": "giohang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhcongnguyen/Demo-yourcart.git"
+  },
+  "author": "thanhcongnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhcongnguyen/Demo-yourcart/issues"
+  },
+  "homepage": "https://github.com/thanhcongnguyen/Demo-yourcart#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.16.1",
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1"
+  }
+}
